@@ -1,0 +1,41 @@
+html, body {
+
+  margin: 0;
+  padding: 0;
+background-color: darkblue;
+  font-family: "Nerko One", system-ui;
+  font-family: "New Amsterdam", system-ui;
+  color: white;
+  font-size: 20px;
+}
+imput[type="checkboy"]{ 
+transform: scale(2);
+margin-right: 30px;
+
+}
+
+imput[type="text"]{
+  font-size: 30px;
+  width: 230px;
+  border-radius: 200px;
+  border: solid 4px black;
+
+
+fonte corpo font-family: "New Amsterdam", system-ui;
+}
+.hidden{ 
+  display: none;
+}
+
+.botao{
+ background-color:blue;
+ font-family: "Nerko One", system-ui;
+  color:white;
+  border: 2px solid rgb(109,101,101);
+  border-radius: 200px;
+  font-size: 25px;
+
+}
+.botao:hover{ 
+  backgroud-color:white;
+  border: solid 2px white;
